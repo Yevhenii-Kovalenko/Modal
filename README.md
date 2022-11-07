@@ -1,1 +1,1 @@
-Educational project, contains a modal window.
+Educational project on React, contains a modal window.
